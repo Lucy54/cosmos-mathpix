@@ -1,0 +1,2 @@
+# cosmos-mathpix
+mathpix
